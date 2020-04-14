@@ -2,7 +2,7 @@ package String;
 
 public class OperasiString {
     public static void main(String[] args) {
-        String kota = "Yogyakarta";
+        String kota = "Wirausaha";
 
         System.out.println(kota);
 
@@ -12,7 +12,7 @@ public class OperasiString {
 
         System.out.println(kota.toUpperCase());
         System.out.println(kota.toLowerCase());
-        System.out.println(kota.substring(5));
+        System.out.println(kota.substring(4));
         System.out.println(kota.substring(0,4));
     }
 }
